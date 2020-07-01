@@ -1,0 +1,601 @@
+[{
+  "_id": {
+    "$oid": "5efc63158822da7315abfe3d"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc6373929dec0048dac6ed"
+  },
+  "region": "RU",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63c6929dec0048dac6ee"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63c6929dec0048dac6ef"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac6f0"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac6f1"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac6f2"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac6f3"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac6f4"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac6f5"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac6f6"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac6f7"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac6f8"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac6f9"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac6fa"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac6fb"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac6fc"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac6fd"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac6fe"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac6ff"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac700"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac701"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac702"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac703"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac704"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac705"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac706"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac707"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac708"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac709"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac70a"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac70b"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac70c"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac70d"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac70e"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac70f"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac710"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac711"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac712"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac713"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac714"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac715"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac716"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac717"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac718"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac719"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac71a"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac71b"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac71c"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac71d"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac71e"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac71f"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac720"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac721"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac722"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac723"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac724"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac725"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac726"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+},{
+  "_id": {
+    "$oid": "5efc63ff929dec0048dac727"
+  },
+  "region": "UA",
+  "type": "Apple Music",
+  "users": [
+    ""
+  ],
+  "isFull": false
+}]
