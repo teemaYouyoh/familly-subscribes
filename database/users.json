@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "5efd827a068e82bbaf742256"
+  },
+  "name": "Tima",
+  "password": "123",
+  "email": "example@mail.com",
+  "subscribes": [
+    ""
+  ],
+  "region": "UA"
+}]
