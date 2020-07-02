@@ -1,7 +1,7 @@
 'use strict';
 module.exports = function(app) {
   var subscribesGroups = require('../controllers/subscribesGroupsController');
-  var manufacturersList = require('../controllers/manufacturersListController');
+  var usersList = require('../controllers/usersListController');
   
   // subscribesGroups Routes
   app.route('/subscribes-groups')
@@ -15,14 +15,14 @@ module.exports = function(app) {
     .delete(subscribesGroups.delete_a_group);
 
 
-  // manufacturersList Routes
-  app.route('/manufacturers')
-    .post(manufacturersList.create_a_manufacturer)
-    .get(manufacturersList.list_all_manufacturers);
+  // usersList Routes
+  app.route('/users')
+    .post(usersList.create_a_user)
+    .get(usersList.list_all_users);
 
 
-  app.route('/manufacturers/:manufacturersId')
-    .get(manufacturersList.read_a_manufacturer)
-    .put(manufacturersList.update_a_manufacturer)
-    .delete(manufacturersList.delete_a_manufacturer);
+  app.route('/users/:userId')
+    .get(usersList.read_a_user)
+    .put(usersList.update_a_user)
+    .delete(usersList.delete_a_user);
 };

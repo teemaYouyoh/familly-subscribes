@@ -4,7 +4,7 @@ var express = require('express'),
   cors = require('cors'),
   mongoose = require('mongoose'),
   Groups = require('./api/models/subscribesGroupsModel'), //created model loading here
-  manufacturer = require('./api/models/manufacturersListModel'), //created model loading here
+  Users = require('./api/models/usersListModel'), //created model loading here
   bodyParser = require('body-parser');
   
   // app.use(function (req, res, next) {
