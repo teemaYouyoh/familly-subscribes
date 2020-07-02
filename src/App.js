@@ -1,13 +1,16 @@
 import React from 'react';
 import Groups from './Groups';
 
+import './App.scss';
 
 function App() {
   return (
     // <div className="groups">
     //   <Groups/>
     // </div>
-    <h1>Familly Subscribes</h1>
+    <h1><div className="header">
+      Familly Subscribes
+    </div></h1>
   );
 }
 
